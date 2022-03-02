@@ -11,7 +11,8 @@ Used SQFlite as Database
 Use + Icon Button to add Values to Database.
 Use QueryData Button, to fetch data's from DB.
 
-For Working Application:
+For Working Application: Download and Install Final Release.apk
+
 
 
 A few resources to get you started if this is your first Flutter project:
